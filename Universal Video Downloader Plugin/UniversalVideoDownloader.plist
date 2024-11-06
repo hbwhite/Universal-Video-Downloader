@@ -1,0 +1,8 @@
+{
+	Filters = {
+		Bundles = (
+			"com.apple.avfoundation",
+			"com.apple.MediaPlayer",
+		);
+	};
+}
